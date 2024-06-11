@@ -27,3 +27,8 @@ jupyter lab
 ```bash
 python -m venv .venv
 ```
+
+### 4. 贡献者
+|用户名|邮箱|
+|:---|:---|
+|albertxiao-shinetech|xiaozx@shinetechsoftware.com|
